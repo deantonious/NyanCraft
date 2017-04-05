@@ -1,0 +1,15 @@
+name: Nyancraft
+main: es.deantonious.nyancraft.NyanCraft
+author: DeAntonious
+website: http://deantonious.es/
+version: 1.0
+commands:
+  nyan:
+    description: Enables Nyan in Normal Mode
+    permission: nyan.normal
+  nyanr:
+    description: Enables Nyan in Random Mode
+    permission: nyan.random
+  nyanc:
+    description: Enables Nyan in Custom Mode
+    permission: nyan.custom   
